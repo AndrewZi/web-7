@@ -1,0 +1,12 @@
+.base_container {
+    display: flex;
+}
+
+.style {
+    margin: 5px;
+    cursor: pointer;
+}
+
+#name {
+    margin-right: 3px;
+}
